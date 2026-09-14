@@ -1,1 +1,1 @@
-Current Status: Learning Intermediate Git
+Current Status: Learning Beginner Git
